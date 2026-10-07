@@ -1,0 +1,18 @@
+.fotosh1 {
+    text-align: center;
+}
+
+.fotos12 {
+    display: flex;
+    flex-wrap: wrap;       
+    justify-content: center; 
+    gap: 15px;             
+    max-width: 250px;      
+    margin: 0 auto;        
+}
+
+
+.fotos12 img {
+    width: 100px;
+    height: 100px;
+}
